@@ -203,7 +203,7 @@
                                 // Will be added as highest priotity in accept-language header with each request. 
                                 // Plus is used in FB, YouTube and perhaps other plugins
             "twitter": {
-                "max-width": 550,
+                "max-width": 2000,
                 "min-width": 250,
                 hide_media: false,
                 hide_thread: false,
